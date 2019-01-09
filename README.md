@@ -16,6 +16,6 @@ L'utilisation du WebService nécéssite deux identifiants :
 * **Pass** : Le code affiché lors de l'activation du service de notification 
 
 
-### LE WEBSERVICE NE SEMBLE PLUS ETRE EN SERVICE ET SEMBLE AVOIR ETE DESACTIVE PAR FREE. CE CODE EST DONC DESOMRAIS OBSOLETE.
+### LE WEBSERVICE NE SEMBLE PLUS ETRE EN SERVICE ET SEMBLE AVOIR ETE DESACTIVE PAR FREE. CE CODE EST DONC DESORMAIS OBSOLETE.
 
   [freemobile]: https://www.domotique-info.fr/2014/06/nouvelle-api-sms-chez-free/
