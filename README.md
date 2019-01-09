@@ -12,8 +12,8 @@ Simple classe PHP pour l'utilisation du WebService FreeMobile pour l'envoi de SM
 
   
 L'utilisation du WebService nécéssite deux identifiants :
-* **User :** Votre identifiant FreeMobile
-* Pass : Le code affiché lors de l'activation du service de notification 
+* **User** : Votre identifiant FreeMobile
+* **Pass** : Le code affiché lors de l'activation du service de notification 
 
 
 
